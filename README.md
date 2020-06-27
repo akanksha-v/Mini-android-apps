@@ -1,2 +1,2 @@
 # Mini-android-apps
-It's start of my journey with android development
+It's just a start of my journey with android development
